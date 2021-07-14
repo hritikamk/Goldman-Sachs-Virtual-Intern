@@ -15,7 +15,7 @@ As a governance analyst it is part of your duties to assess the level of protect
 
 Here is a sample data file containing hashes dumped together:
 
-https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/passwd_dump.txt
+https://github.com/hritikamk/Goldman-Sachs-Virtual-Intern/blob/main/Raw_data.txt
 
 After the conducted analysis it was determined that organization uses an outdated password hashing algorithm (MD5) which offers very little protection in the event of a password database leaking. It was also determined that the current password policy is not aligned with industry best practices allowing users to have short passwords (6 characters) and reuse usernames as part of passwords. 
 
@@ -106,8 +106,7 @@ blikimore:917eb5e9d6d6bca820922a0c6f7cc28b - Pa$$word1
 johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 ```
 Complete report is available at: 
-
-https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/SHA%20Hashes%20and%20Goldman%20Sachs%20Internship.pdf
+https://github.com/hritikamk/Goldman-Sachs-Virtual-Intern
 
 ## Resources 
 
